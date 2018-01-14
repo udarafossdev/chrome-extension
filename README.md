@@ -28,5 +28,5 @@ chrome://extensions
 
 _Happy Experimenting! Have fun!_
 
-####Feel free to add some more awsome functionalities to the repo!
+###Feel free to add some more awsome functionalities to the repo!
 Make sure that you add them to the documentation too!
