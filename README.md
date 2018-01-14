@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to Basic Chrome Extension
 
-You can use the [editor on GitHub](https://github.com/udarafossdev/chrome-extension/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a basic setup to test and experience the functionality of a basic chrome extension referred in many tutorials.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Setting up
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Clone the Repo
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+git clone https://github.com/udarafossdev/chrome-extension.git
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Installing the Extension to your chrome browser
 
-### Jekyll Themes
+- Navigate to the following URL in your chrome browser
+```markdown
+chrome://extensions
+```
+- Make sure that you tick `developer mode`
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/udarafossdev/chrome-extension/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Click `Load unpacked extension...`
 
-### Support or Contact
+- Browse to the downloaded directory
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Current Functionality
+
+1. When you click the icon, there will be a popup created in HTML for you to meddle with.
+2. If you observe the `manifest.json` closely, two JS files are developed to create basic JS alerts in URLs containing youtube.com and blogspot.com
+
+_Happy Experimenting! Have fun!_
+
+####Feel free to add some more awsome functionalities to the repo!
+Make sure that you add them to the documentation too!
