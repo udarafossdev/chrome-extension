@@ -30,3 +30,7 @@ _Happy Experimenting! Have fun!_
 
 **Please Feel free to add some more awesome functions to the repo!
 Make sure that you add them to the documentation too!**
+
+<a href="https://github.com/DevExpress/testcafe">
+    <img alt="Tested with TestCafe" src="https://img.shields.io/badge/tested%20with-TestCafe-2fa4cf.svg">
+</a>
